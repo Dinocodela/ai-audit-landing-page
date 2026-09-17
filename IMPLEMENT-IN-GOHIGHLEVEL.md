@@ -14,7 +14,6 @@ Rebuild the Free AI Business Audit landing page as a high-conversion, mobile-fir
 
 ## Page Structure
 Build sections in this order:
-
 1. Hero
 2. Trust strip
 3. Operational pain points
@@ -24,7 +23,7 @@ Build sections in this order:
 7. How It Works
 8. Why the audit is free
 9. Founder / Walter Cueva
-10. Proof / client logos / verified testimonials
+10. Verified testimonials / proof
 11. Industries
 12. Qualification form
 13. FAQ
@@ -156,6 +155,24 @@ Founder, DinoCodeLA
 U.S. Navy Veteran
 
 Position the company as Los Angeles-based, veteran-founded, and business-first. Keep founder copy concise and human.
+
+## Verified Testimonials
+Add a dedicated social-proof section immediately after the Founder section.
+
+Headline:
+What Clients Say About Working With DinoCodeLA
+
+Use the verified review copy, attribution, platform, rating, source and implementation rules in:
+`docs/testimonials.md`
+
+Recommended initial cards:
+- Maël Mayet — Google review — business-growth/lead-generation proof
+- Robert Brandon — Trustpilot — strategic/easy-to-work-with proof
+- Vanessa R. — Yelp — delivery/timeline/budget proof
+
+The main DinoCodeLA website also has video/case-study testimonial assets for Flora, Lindsey Paige Savchuk and Kit C. These can be incorporated later when the corresponding approved media is available.
+
+Do not invent profile photos. Use initials or platform branding when a verified reviewer photo is unavailable.
 
 ## Industries
 Potential tiles:
